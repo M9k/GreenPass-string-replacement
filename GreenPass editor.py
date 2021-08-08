@@ -6,7 +6,8 @@ import qrcode
 
 #---- INSERT HERE A VALID GREENPASS CODE ----
 str = "HC1:<GREENPASS QR CODE STRING>"
-#---- INSERT HERE WHAT TO REPLACE ----
+#---- INSERT HERE WHAT DO YOU WANT TO REPLACE ----
+#---- The two strings must have the same lenght ----
 # For example: YOUR_SURNAME and YOUR_NEW_SURNAME
 strToReplace = "str1"
 strToReplaceTo = "str2"
